@@ -30,5 +30,5 @@ from colorama import init, Back, Fore
 init()
 
 
-When ready to run this project, right click in the project and select the option to "Run Python File in Terminal" to see results of the kthread calculations in color.
+When ready to run this project, simply double click on the KThreading.exe file and the application will begin to run.
  
